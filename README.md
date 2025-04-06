@@ -88,9 +88,9 @@ gsap.to(".element", {
 
 ---
 
-## 
-📁 Project Structure
+## 📁 Project Structure
 
+```bash
 nexora/
 ├── public/
 │   ├── fonts/          # Custom fonts (woff2)
@@ -104,6 +104,8 @@ nexora/
 │   └── main.jsx        # App entry point
 ├── tailwind.config.js  # Tailwind CSS config
 └── vite.config.js      # Vite build config
+```
+
 
 
 ---
