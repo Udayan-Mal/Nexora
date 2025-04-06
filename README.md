@@ -526,6 +526,8 @@ gsap.to(".element", {
   }
 });
 
+```
+
 ---
 
 ### 🎮 3D Tilt Hover Interaction
