@@ -1,7 +1,7 @@
 # Nexora - An Awwards-Inspired Web Experience
 
 <div align="center">
-  <img src="public/img/nexora-preview.jpg" alt="Nexora Preview" width="800"/>
+  <img src="public/img/nexora-preview.png" alt="Nexora Preview" width="800"/>
 
   [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-5542ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-kappa.vercel.app/)
   [![GitHub](https://img.shields.io/badge/SOURCE-CODE-010101?style=for-the-badge&logo=github)](https://github.com/Udayan-Mal/nexora)
