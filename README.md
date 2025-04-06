@@ -458,41 +458,66 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <div align="center">
   <img src="public/img/nexora-preview.jpg" alt="Nexora Preview" width="800"/>
-  
+
   [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-5542ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-kappa.vercel.app/)
   [![GitHub](https://img.shields.io/badge/SOURCE-CODE-010101?style=for-the-badge&logo=github)](https://github.com/your-username/nexora)
   [![License](https://img.shields.io/badge/LICENSE-MIT-4fb7dd?style=for-the-badge)](LICENSE)
 </div>
 
-## ✨ Introduction
-Nexora is a visually stunning website that replicates the premium feel of Awwards-winning designs. Built as an educational project, it showcases advanced frontend techniques including:
+---
 
-- Scroll-triggered animations
-- 3D geometric transitions
-- Interactive video storytelling
-- Micro-interactions and hover effects
+## ✨ Introduction
+
+Nexora is a visually stunning and interactive website, inspired by Zentry and built to reflect the feel of Awwwards-winning designs. This project showcases modern frontend technologies and advanced UI/UX concepts, aimed at developers eager to explore scroll-based interactions, animation, and responsive layouts.
+
+> 🔮 Reimagined with a metagame layer and immersive "Play Economy" storytelling.
+
+---
+
+## 📋 Table of Contents
+
+- [✨ Introduction](#-introduction)
+- [🛠 Tech Stack](#-tech-stack)
+- [🚀 Features](#-features)
+- [📁 Project Structure](#-project-structure)
+- [🤸 Quick Start](#-quick-start)
+- [🔗 Assets](#-assets)
+- [🚀 Deployment](#-deployment)
+- [📜 License](#-license)
+
+---
 
 ## 🛠 Tech Stack
 
-### Core Technologies
-| Technology | Usage |
-|------------|-------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Component-based architecture |
-| ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | Lightning fast build tool |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first CSS framework |
+### ⚙️ Core Technologies
 
-### Animation Libraries
+| Technology | Description |
+|------------|-------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Component-based architecture |
+| ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | Fast development & optimized builds |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first CSS styling |
+
+### 🎞️ Animation Libraries
+
 | Library | Purpose |
-|---------|---------|
-| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | Scroll-triggered and timeline animations |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | Interactive component animations |
+|--------|---------|
+| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | Scroll-triggered timeline animations |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | Component-based animation handling |
+
+---
 
 ## 🚀 Features
 
-### Visual Effects
-- **Dynamic Clip-Paths**: Morphing geometric shapes on scroll
+- 🔄 **Scroll-Based Animations**: Engaging transitions and reveal effects.
+- 🌀 **Geometric Video Transitions**: Smooth `clip-path` animations for storytelling.
+- 🧲 **3D Hover Effects**: Interactive tilt-based card hover effects.
+- 📱 **Responsive Design**: Flawless rendering across devices.
+- 🧠 **Metagame Theme**: Immersive "Play Economy" narrative layer.
+- ⚙️ **Modular Architecture**: Clean structure for scalability and maintenance.
+
+#### 🔍 Code Snippet Example - GSAP Clip-Path Animation
+
 ```js
-// Example GSAP clip-path animation
 gsap.to(".element", {
   clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
   scrollTrigger: {
@@ -500,6 +525,3 @@ gsap.to(".element", {
     scrub: true
   }
 });
-
-3D Tilt Effects: Parallax hover interactions
-
