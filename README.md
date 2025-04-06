@@ -532,9 +532,12 @@ gsap.to(".element", {
 
 ### 🎮 3D Tilt Hover Interaction
 
+```js
 <div 
   onMouseMove={handleTilt}
   style={{ transform: `rotateX(${tiltX}deg) rotateY(${tiltY}deg)` }}
 >
   Interactive Element
 </div>
+
+```
