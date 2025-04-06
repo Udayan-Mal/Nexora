@@ -4,7 +4,7 @@
   <img src="public/img/nexora-preview.jpg" alt="Nexora Preview" width="800"/>
 
   [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-5542ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-kappa.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/SOURCE-CODE-010101?style=for-the-badge&logo=github)](https://github.com/your-username/nexora)
+  [![GitHub](https://img.shields.io/badge/SOURCE-CODE-010101?style=for-the-badge&logo=github)](https://github.com/Udayan-Mal/nexora)
   [![License](https://img.shields.io/badge/LICENSE-MIT-4fb7dd?style=for-the-badge)](LICENSE)
 </div>
 
@@ -21,33 +21,34 @@ Nexora is a visually stunning and interactive website, inspired by Zentry and bu
 ## 📋 Table of Contents
 
 - [✨ Introduction](#-introduction)
-- [🛠 Tech Stack](#-tech-stack)
-- [🚀 Features](#-features)
-- [📁 Project Structure](#-project-structure)
-- [🤸 Quick Start](#-quick-start)
-- [🔗 Assets](#-assets)
-- [🚀 Deployment](#-deployment)
-- [📜 License](#-license)
-
+- [Tech Stack](#-tech-stack)
+- [Key Features](#-features)
+- [UI Components](#-ui-components)  
+- [Project Structure](#-project-structure)
+- [Quick Start](#-quick-start)
+- [Assets](#-assets)
+- [Deployment](#-deployment)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Contact](#-contact)
 ---
 
 ## 🛠 Tech Stack
 
 ### ⚙️ Core Technologies
 
-| Technology | Description |
-|------------|-------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Component-based architecture |
-| ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | Fast development & optimized builds |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first CSS styling |
+| Technology | Usage |
+|------------|-------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Component architecture |
+| ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | Build tool |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Styling |
 
 ### 🎞️ Animation Libraries
 
 | Library | Purpose |
-|--------|---------|
-| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | Scroll-triggered timeline animations |
-| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | Component-based animation handling |
-
+|---------|---------|
+| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | Scroll animations |
+| ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | Micro-interactions |
 ---
 
 ## 🚀 Features
@@ -206,7 +207,35 @@ Import your GitHub repository.
 Set Framework Preset to Vite, Build Command to npm run build, Output Directory to dist.
 Click Deploy and get your unique URL.
 
+---
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for full details.  
+*Note: This is an educational project created for learning purposes. All design credits belong to their respective owners.*
+
+---
+
+## 🎉 Acknowledgments
+Special thanks to these technologies that made Nexora possible:
+
+| Technology       | Contribution                          |
+|------------------|---------------------------------------|
+| **GSAP**         | Powering all scroll-triggered animations and complex timelines |
+| **React Icons**  | Providing the sleek arrow and social media icons |
+| **Vite**         | Enabling lightning-fast development builds |
+| **Tailwind CSS** | Facilitating responsive design with utility classes |
+| **Vercel**       | For seamless deployment and hosting |
+
+*Design inspiration from [Zentry](https://zentry.com/)*
+
+---
+
+## 📧 Contact
+**Project Maintainer**:  
+👨‍💻 **Udayan Mal**  
+📫 **GitHub**: [Udayan-Mal](https://github.com/Udayan-Mal)  
+🌐 **Live Demo**: [Nexora on Vercel](https://nexora-kappa.vercel.app/)  
 
 
 
-**[Zentry](https://zentry.com/)**
+
