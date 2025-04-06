@@ -88,6 +88,23 @@ gsap.to(".element", {
 
 ---
 
+## 🖥️ UI Components
+
+| Component          | Description                                                                 | Key Features                                                                 |
+|--------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Hero Section**   | Full-screen video with animated transitions                                 | GSAP scroll triggers, video switching logic, 3D tilt effects                 |
+| **Bento Grid**     | Interactive card layout with tilt effects                                   | Dynamic mouse tracking, radial gradient hovers, auto-playing video cards     |
+| **Animated Navbar**| Scroll-aware navigation with audio toggle                                  | GSAP animations, scroll detection, audio visualizer                         |
+| **About Section**  | Image reveal with clip-path animations                                     | Custom clip-path morphing, responsive text layout                           |
+| **Features Cards** | Interactive product showcase                                               | 3D perspective transforms, coming soon indicators                          |
+| **Contact Form**   | Layered image composition with custom shapes                               | SVG clip-paths, responsive positioning                                     |
+| **Footer**         | Social media links and copyright                                           | Hover animations, responsive grid layout                                   |
+| **Video Player**   | Custom mini video player component                                         | Click-to-expand functionality, smooth transitions                         |
+| **Animated Text**  | Word-by-word reveal animations                                             | GSAP timeline, 3D rotation effects                                        |
+| **Loading Screen** | Animated preloader                                                        | Three-body physics animation, smooth fade-out                              |
+
+---
+
 ## 📁 Project Structure
 
 ```bash
