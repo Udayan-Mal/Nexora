@@ -387,6 +387,9 @@ body {
 }
 ```
 
+
+
+
 </details>
 
 <details>
@@ -445,3 +448,58 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsmastery.pro/next15" target="_blank">
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
 </a>
+
+
+
+
+--------------------------------------
+
+# Nexora - An Awwards-Inspired Web Experience
+
+<div align="center">
+  <img src="public/img/nexora-preview.jpg" alt="Nexora Preview" width="800"/>
+  
+  [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-5542ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nexora-kappa.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/SOURCE-CODE-010101?style=for-the-badge&logo=github)](https://github.com/your-username/nexora)
+  [![License](https://img.shields.io/badge/LICENSE-MIT-4fb7dd?style=for-the-badge)](LICENSE)
+</div>
+
+## ✨ Introduction
+Nexora is a visually stunning website that replicates the premium feel of Awwards-winning designs. Built as an educational project, it showcases advanced frontend techniques including:
+
+- Scroll-triggered animations
+- 3D geometric transitions
+- Interactive video storytelling
+- Micro-interactions and hover effects
+
+## 🛠 Tech Stack
+
+### Core Technologies
+| Technology | Usage |
+|------------|-------|
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | Component-based architecture |
+| ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) | Lightning fast build tool |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | Utility-first CSS framework |
+
+### Animation Libraries
+| Library | Purpose |
+|---------|---------|
+| ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) | Scroll-triggered and timeline animations |
+| ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | Interactive component animations |
+
+## 🚀 Features
+
+### Visual Effects
+- **Dynamic Clip-Paths**: Morphing geometric shapes on scroll
+```js
+// Example GSAP clip-path animation
+gsap.to(".element", {
+  clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+  scrollTrigger: {
+    trigger: ".element",
+    scrub: true
+  }
+});
+
+3D Tilt Effects: Parallax hover interactions
+
