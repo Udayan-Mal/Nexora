@@ -21,14 +21,14 @@ Nexora is a visually stunning and interactive website, inspired by Zentry and bu
 ## 📋 Table of Contents
 
 - [✨ Introduction](#-introduction)
-- [Tech Stack](#-tech-stack)
-- [Key Features](#-features)
+- [🛠 Tech Stack](#-tech-stack)
+- [🚀 Key Features](#-features)
 - [UI Components](#-ui-components)  
-- [Project Structure](#-project-structure)
-- [Quick Start](#-quick-start)
-- [Assets](#-assets)
-- [Deployment](#-deployment)
-- [License](#-license)
+- [📁 Project Structure](#-project-structure)
+- [🤸 Quick Start](#-quick-start)
+- [🔗 Assets](#-assets)
+- [🚀 Deployment](#-deployment)
+- [📜 License](#-license)
 - [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
 ---
