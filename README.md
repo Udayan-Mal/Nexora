@@ -108,6 +108,7 @@ gsap.to(".element", {
 
 ## 📁 Project Structure
 
+
 ```bash
 nexora/
 ├── public/
